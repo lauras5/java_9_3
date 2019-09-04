@@ -1,2 +1,4 @@
-# java_9_3
-my first java program
+# First Java Program
+
+## Overview
+Building first Java Program in class. 
