@@ -8,3 +8,7 @@
 - PascalCase for classes
 - using Eclipse IDE(integrated development environment)
 - compiler Java C compiler
+- semi-colon(;) at end of statement(similar to C++)
+- `System.out.println`, `System.out.print`
+- double quotes for text inside, messages
+- compile-time errors vs run-time errors
